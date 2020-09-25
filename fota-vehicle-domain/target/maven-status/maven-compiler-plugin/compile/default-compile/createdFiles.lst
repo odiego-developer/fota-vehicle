@@ -1,0 +1,5 @@
+com\man\fotavehicle\domain\FotaVehicleSoftware.class
+com\man\fotavehicle\domain\FotaVehicleHardware.class
+com\man\fotavehicle\domain\id\FotaVehicleSoftwareId.class
+com\man\fotavehicle\domain\VehicleFeature.class
+com\man\fotavehicle\domain\id\FotaVehicleHardwareId.class

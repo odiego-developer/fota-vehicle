@@ -1,0 +1,3 @@
+com\man\fotavehicle\persistence\DataBaseSettler.class
+com\man\fotavehicle\persistence\FotaVehicleHardwareRepository.class
+com\man\fotavehicle\persistence\FotaVehicleSoftwareRepository.class
