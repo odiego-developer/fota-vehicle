@@ -69,6 +69,6 @@ Requirements:
 
 Procedure:
 
-- access your folder: cd <YOUR_FOLDER>
-- set the folder where the files will be present in "application.properties"
+- access the following folder: cd <YOUR_FOLDER>/fota-vehicle/run-service/
+- set the folder where the files will be extract from in "application.properties" file
 - run: java -jar fota-vehicle-api-1.0.0-RELEASE.jar --spring.config.location=file://application.properties 
